@@ -30757,7 +30757,7 @@ p.push(new P.y(o,0,m,0+r))
 n=2*r
 p.push(new P.y(o,n,m,n+r))
 break}for(r=p.length,e=e.a,s=s===C.n4,l=g.c*0.9,k=l*0.8,j=0;j<p.length;p.length===r||(0,H.H)(p),++j){i=p[j]
-switch(e){case C.qu:q.ew(0,P.act(i,new P.bs(15,15)))
+switch(e){case C.qu:q.ew(0,P.act(i,new P.bs(1,1)))
 break
 case C.qv:q.nm(0,i)
 break
